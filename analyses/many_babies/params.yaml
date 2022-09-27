@@ -27,7 +27,7 @@ loom:
   extra_passes: 1
 cgpm:
   #iterations: 1
-  minutes: 15
+  minutes: 120
 clojurecat:
   iterations: 150
 qc:

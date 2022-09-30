@@ -18,8 +18,10 @@ schema:
   # age: numerical
   looking_time_mean: numerical
   looking_time_var: numerical
+  looking_time_count: numerical
   total_trial_time_mean: numerical
   total_trial_time_var: numerical
+  total_trial_time_count: numerical
   age_days: numerical
   lang1: nominal
   lab: nominal

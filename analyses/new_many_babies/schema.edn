@@ -1,0 +1,1 @@
+{"lab" :nominal, "looking_time_var" :numerical, "looking_time_count" :numerical, "method" :nominal, "total_trial_time_var" :numerical, "trial_type" :nominal, "lang1" :nominal, "total_trial_time_count" :numerical, "total_trial_time_mean" :numerical, "session_error" :nominal, "subid_unique" :ignore, "looking_time_mean" :numerical, "age_days" :numerical}
